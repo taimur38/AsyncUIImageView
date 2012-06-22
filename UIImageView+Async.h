@@ -1,10 +1,6 @@
 //
 //  UIImageView+Async.h
-//  Clossit
-//
-//  Created by Lion User on 21/06/2012.
-//  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
-//
+//  Taimur Shah
 
 #import <UIKit/UIKit.h>
 
